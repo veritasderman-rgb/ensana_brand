@@ -14,7 +14,7 @@
 | Full brand lockup | **Ensana Health Spa Hotels** |
 | Category | Natural health & hospitality (spa hotels) |
 | Positioning | Natural health and hospitality leader |
-| Website | www.ensanahotels.com |
+| Website | ensanahotels.com |
 | Email domain | `@ensanahotels.com` |
 | Parent entity (Czech HQ) | Arisende s.r.o., Palác Kronberg, Senovážné náměstí 992/8, CZ-110 00 Prague 1 |
 | Tonality (imagery & voice) | **warm · authentic · confident** |
@@ -70,6 +70,8 @@ Ensana operates on **three brand levels** — always observe which level a piece
 | Building signage | n/a | n/a | Hotel name + "Health Spa Hotel" below |
 
 Always close online pieces with the call **"Find out more, visit, follow: ensanahotels.com"**.
+
+> **Web addresses: always without "www."** — write `ensanahotels.com`, `marienbad.com`, never `www.ensanahotels.com`. Applies to print, digital, signatures, QR captions and copy in every language.
 
 ### 2.5 Don'ts
 
@@ -289,7 +291,7 @@ Plus **documentary** variants:
 - "How to increase your power"
 - "Aspects of vitality"
 - "Feel better"
-- Call-to-action closer: **"Discover the ensana health spa hotels at www.ensanahotels.com"**
+- Call-to-action closer: **"Discover the ensana health spa hotels at ensanahotels.com"**
 - Social follow line: **"Find out more, visit, follow: ensanahotels.com"**
 
 ### 6.3 Writing rules
@@ -299,6 +301,7 @@ Plus **documentary** variants:
 - Prefer concrete nouns (thermal mineral water, healing mud, Mirror Pool) over vague adjectives.
 - Medical content: factual, neutral, non-alarmist; clearly list indications *and* contraindications.
 - Avoid marketing clichés ("the ultimate", "world-class", "one-of-a-kind").
+- Write web addresses without "www." (`ensanahotels.com`, `marienbad.com`).
 - Use English spelling consistent with the hotel country (EN-GB default for European audiences).
 
 ---
@@ -318,7 +321,7 @@ Position
 [Address]
 Tel.: +XXX XXX XXX XXX – Mobile: +XXX XXX XXX XXX
 Email: name.surname@ensanahotels.com
-www.ensanahotels.com
+ensanahotels.com
 ```
 
 Level-specific legal entities / addresses:
@@ -334,7 +337,7 @@ Position
 [Address line — preferably in one line]
 Mobile: +XXX XXX XXX XXX
 Email: name.surname@ensanahotels.com
-www.ensanahotels.com
+ensanahotels.com
 ```
 
 Followed by the confidentiality notice:
@@ -355,12 +358,12 @@ Hotel-level letterheads carry:
 
 - **Cover signature** after the slogan: `[Hotel / Cluster / Brand lockup]`
 - **Standalone logo** for print ads: always the word mark `Ensana` (no descriptor) when space is tight.
-- **Closing line:** "Discover the ensana health spa hotels at www.ensanahotels.com"
+- **Closing line:** "Discover the ensana health spa hotels at ensanahotels.com"
 
 ### 7.5 Web / Google presence
 
 - Page title in search: `ensana | Health Spa Hotels`
-- URL: `www.ensanahotels.com`
+- URL: `ensanahotels.com`
 - Meta description: short, benefit-led sentence in brand voice.
 
 ### 7.6 Building / on-property
@@ -400,7 +403,8 @@ Paste the block below into any design prompt to anchor Claude-the-designer to En
 brand: Ensana Health Spa Hotels
 positioning: natural health and hospitality leader
 voice: [warm, authentic, confident, empowering]
-url: https://www.ensanahotels.com
+url: https://ensanahotels.com
+web_address_style: "no www. prefix — ensanahotels.com, marienbad.com"
 
 colours:
   primary:
@@ -452,7 +456,7 @@ logo:
   signature_move: "one cover-title letter intersects photo beneath"
 
 copy:
-  cta: "Discover the ensana health spa hotels at www.ensanahotels.com"
+  cta: "Discover the ensana health spa hotels at ensanahotels.com"
   taglines: ["Let yourself flow", "Be your own health manager", "Feel better"]
 ```
 
@@ -478,5 +482,6 @@ Source material for this manual lives in the `source/` folder alongside this REA
 | Version | Date | Notes |
 |---|---|---|
 | 1.0 | 2026-04-18 | Initial Markdown consolidation from the 2018 Ensana brand assets. |
+| 1.1 | 2026-09-30 | Web addresses always written without "www." (rule added, all examples updated). |
 
 *If you find inconsistencies between this manual and the source PDFs, the source PDFs take precedence and this manual should be corrected.*
