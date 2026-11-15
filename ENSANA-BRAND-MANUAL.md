@@ -429,7 +429,7 @@ colours:
     warm_bordeaux: { role: accent only }
 
 typography:
-  family: "Branding" (Latinotype)
+  family: "Branding (Latinotype)"
   weights: [Thin, Light, Semilight, Medium, Semibold, Bold, Black]
   italics: true
   web_fallback: "Helvetica Neue, Arial, system-ui, sans-serif"
@@ -464,7 +464,7 @@ copy:
 
 ## 9. Reference files
 
-Source material for this manual lives in the `source/` folder alongside this README:
+This manual was compiled from the following source material. The files themselves are not included in this repository:
 
 - `Ensana Brand Identity Guidelines.pdf` — master guidelines
 - `Ensana Brand Colours.pdf` — colour specification
